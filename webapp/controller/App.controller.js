@@ -24,7 +24,6 @@ sap.ui.define([
           this.getView().setModel(i18nModel, "i18n");
        },
  
-       
        onShowHello() {
           // read msg from i18n model
           const oBundle = this.getView().getModel("i18n").getResourceBundle();
