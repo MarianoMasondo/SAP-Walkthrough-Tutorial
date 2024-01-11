@@ -1,3 +1,4 @@
+
 <mvc:View
    controllerName="ui5.walkthrough.controller.App"
    xmlns="sap.m"
